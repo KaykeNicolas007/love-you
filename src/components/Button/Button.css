@@ -1,12 +1,18 @@
+a:hover {
+  color: inherit;
+}
+
 .button {
   background: linear-gradient(
     1800deg,
     rgba(72, 67, 92, 1) 0%,
     rgba(90, 87, 102, 1) 100%
   );
+  border-radius: 8px;
   color: #edffec;
   font-size: 2rem;
   font-weight: bold;
+  padding: 2rem 3rem;
   text-transform: uppercase;
   transition: 0.4s;
 }
