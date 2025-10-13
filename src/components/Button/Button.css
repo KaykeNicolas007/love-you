@@ -1,0 +1,21 @@
+.button {
+  background: linear-gradient(
+    1800deg,
+    rgba(72, 67, 92, 1) 0%,
+    rgba(90, 87, 102, 1) 100%
+  );
+  color: #edffec;
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: 0.4s;
+}
+
+.button:hover {
+  background: linear-gradient(
+    1800deg,
+    rgb(96, 81, 153) 0%,
+    rgba(90, 87, 102, 1) 100%
+  );
+  font-size: 2.4rem;
+}
