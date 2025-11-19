@@ -5,7 +5,6 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import Aqua from "../assets/aqua.png";
 import Lia1 from "../assets/Lia1.jpg";
 import Lia2 from "../assets/Lia2.jpg";
 import Lia3 from "../assets/Lia3.jpeg";
