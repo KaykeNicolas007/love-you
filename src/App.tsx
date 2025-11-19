@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <Routes>
-      <Route index element={<Click />} />
+      <Route path="/love-you" element={<Click />} />
       <Route path="/lia" element={<Lia />} />
     </Routes>
   );
